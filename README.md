@@ -1,8 +1,22 @@
 ## 💫 About Me:
 
-👨🏻‍💻 Frontend Developer
+👨‍💻 fullstack developer at http://selego.co
+🔧 craft MVPs that solve real problems and fit market expectations
+🥨 Strasbourg, France 
 
-📍 Based in Paris, France
+### Selego startup studio projects 
+
+![Linkera - CTO as a service](app.linkera.com): a valuation and deal-flow platform enabling founders to assess their startup and investors to browse a large hub of acquisition, cession and fundraising opportunities
+
+![Champerché - fullstack developer](www.champerche.fr): a custom-built production system CRM to synchronise harvesting, stock management and orders through a unified platform, streamlining their urban-farm production workflow and supporting their scalable, low-impact food-tech model
+
+![Finotor - fullstack developer](app.finotor.com): a financial management and cashflow platform that helps founders pilot their business more easily, centralize invoicing and banking data, and streamline accounting ; positioning itself as a modern Xero alternative
+
+Finotor CRM - CTO as a service: a custom-built CRM connected to app.finotor.com, enabling teams to track clients, follow-ups and payments while generating financial and business insights
+
+### Freelance projects
+
+![jeremiehug.com](jeremiehug.com): a photographer portfolio dedicated to wildlife and mountain landscapes, with an integrated print store for fine-art editions
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/quentinpages) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ash1ns) 
