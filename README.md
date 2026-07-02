@@ -1,6 +1,6 @@
 ## about me
 
-🧙 fullstack developer at [Selego](http://selego.co), a startup studio
+🧙 fullstack developer, ex-[Selego](http://selego.co) a startup studio
 
 👉 I **craft MVPs** that **solve real problems** and **fit market expectations**
 
